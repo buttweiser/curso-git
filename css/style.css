@@ -4,4 +4,12 @@ body{
 .parrafo{
     font-size: 20px;
     font-weight: bold;
+ }
+.cabecera{
+    background-color: pink;
+}
+
+.links{
+    background-color: blue;
+    color: white;
 }
