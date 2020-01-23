@@ -4,3 +4,8 @@ body{
 .cabecera{
     background-color: pink;
 }
+
+.links{
+    background-color: blue;
+    color: white;
+}
